@@ -1,5 +1,7 @@
 ## Ring0 Calling
 
+![task](task.png)
+
 Run the qemu emulator using the given startup script /run
 
 On looking around I found /BACKUP/syscall_64.tbl
